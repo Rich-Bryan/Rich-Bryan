@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rich-Bryan</h1>
-<h3 align="center">I like to day trade stocks</h3>
+<h3 align="center">I like coding</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rich-bryan&label=Profile%20views&color=0e75b6&style=flat" alt="rich-bryan" /> </p>
 
